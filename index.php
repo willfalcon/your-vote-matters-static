@@ -52,8 +52,8 @@
     </header>
 
     <div class="content">
-      <p>Mississippi heroes like Fannie Lou Hamer and Medgar Evers fought, bled and died because they knew YOUR VOTE MATTERS! Today, your matters more than ever.</p>
-      <p>On November 5th you will have the opportunity to elect a new Governor, Lt. Governor and Legislature. <strong>You can be the vote</strong> that decicdes ours state's path by getting out and voting for Mississippi's next leaders.</p>
+      <p>Mississippi heroes like Fannie Lou Hamer and Medgar Evers fought, bled and died because they knew YOUR VOTE MATTERS! Today, your vote matters more than ever.</p>
+      <p>On November 5th you will have the opportunity to elect a new Governor, Lt. Governor and Legislature. <strong>You can be the vote</strong> that decides ours state's path by getting out and voting for Mississippi's next leaders.</p>
     </div>
 
     <div class="cards">
