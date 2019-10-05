@@ -1,1 +1,12 @@
-console.log('hello');
+import polyfills from './polyfills';
+polyfills();
+
+const links = document.querySelectorAll('a');
+links.forEach(link => {
+  link.addEventListener('click', e => {
+    gtag('event', 'Link Click', {
+      value: link.href,
+    });
+    console.log(link.href);
+  });
+})
