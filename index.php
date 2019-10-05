@@ -3,6 +3,14 @@
 <html lang="en">
   <head>
 
+    <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-PLQQQ87');</script>
+    <!-- End Google Tag Manager -->
+
     <title>Your Vote Matters! | Vote for Change on November 5th</title>
 
     <meta name="description" content="On November 5th you will have the opportunity to elect a new Governor, Lt. Governor and Legislature. You can be the vote that decides our state's path by getting out and voting for Mississippi's next leaders." />
@@ -18,6 +26,11 @@
 
   <body>
 
+    <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLQQQ87"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
     <header class="header">
       <div class="header__logo-wrapper">
         <img class="header__logo" src="dist/your-vote-matters.png" alt="Your vote matters!" />
