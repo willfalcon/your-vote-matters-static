@@ -1,0 +1,6 @@
+@import 'global/global';
+@import 'components/components';
+@import 'pages/pages'; 
+@supports (display: grid) {
+  @import 'grid/grid';
+}

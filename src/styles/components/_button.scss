@@ -1,0 +1,15 @@
+.button {
+  background: $dark;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  padding: .5rem 1rem;
+  border-radius: 10rem;
+  width: 175px;
+  &--wider {
+    @extend .button;
+    width: 200px;
+  }
+}

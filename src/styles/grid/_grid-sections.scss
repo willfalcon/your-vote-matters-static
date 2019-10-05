@@ -1,0 +1,34 @@
+.section {
+  @include responsive {
+    display: grid;
+    height: 375px;
+    grid-template-columns: 1fr 350px 350px 1fr;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+      ". heading icon ."
+      ". button icon .";
+    justify-items: center;
+    align-items: center;
+    &--reverse {
+      grid-template-areas:
+        ". icon heading ."
+        ". icon button . ";
+    }
+    &__heading {
+      grid-area: heading;
+      align-self: end;
+    }
+    &__button {
+      grid-area: button;
+      align-self: start;
+    }
+    &__icon-wrapper {
+      grid-area: icon;
+    }
+    .offset-heading {
+      grid-column: 2 / 4;
+      grid-row: 1 / 2;
+      align-self: start;
+    }
+  }
+}

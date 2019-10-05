@@ -1,0 +1,8 @@
+.footer {
+  background: $dark;
+  padding: 2rem 1rem;
+  &__logo {
+    padding: 5rem 1rem;
+    @include content-width(400px);
+  }
+}

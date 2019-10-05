@@ -1,0 +1,35 @@
+@mixin background-image($position: center, $size: cover, $repeat: no-repeat) {
+	background-position: $position;
+	background-size: $size;
+	background-repeat: $repeat;
+	@content;
+}
+
+@mixin responsive($breakpoint: $break) {
+  @media (min-width: $breakpoint) {
+    @content;
+  }
+}
+
+@mixin font($weight: $fw-regular, $style: normal) {
+	font-family: museo-sans,sans-serif;
+	font-weight: $weight;
+	font-style: $style;
+	// letter-spacing: .5px;
+}
+
+@mixin webp($filename) {
+	.no-webp & {
+		content: url('#{$filename}.png');
+	}
+	.webp & {
+		content: url('#{$filename}.webp');
+	}
+}
+
+@mixin content-width($w: $width) {
+	width: $w;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}

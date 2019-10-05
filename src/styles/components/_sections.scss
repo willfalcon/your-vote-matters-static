@@ -1,0 +1,53 @@
+.offset-heading {
+  position: relative;
+  background: $dark;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin: 0;
+  padding: .25rem;
+  transform: translateY(-50%);
+  @include responsive {
+    font-size: 4rem;
+  }
+}
+
+.section {
+  &--reverse {
+    @extend .section;
+  }
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  &__icon-wrapper {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  &__icon {
+    &.phone {
+      padding: 4rem;
+    }
+    &.map {
+      padding: 3rem;
+    }
+  }
+  &__heading {
+    font-weight: 400;
+    font-size: 2.6rem;
+  }
+}
+
+.plan {
+  background: $green;
+}
+
+.bank {
+  background: $purple;
+}
+
+.polling {
+  background: $light-blue;
+}

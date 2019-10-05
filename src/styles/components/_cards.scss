@@ -1,0 +1,23 @@
+.cards {
+  background: $light-blue;
+  padding: 2rem;
+
+  @include responsive {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+}
+
+.card {
+  background: white;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  box-shadow: $shadow;
+  &__heading {
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+  flex: 0 0 225px;
+  margin: 2rem;
+}
