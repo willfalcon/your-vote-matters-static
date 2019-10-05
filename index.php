@@ -30,7 +30,7 @@
       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLQQQ87"
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    
+
     <header class="header">
       <div class="header__logo-wrapper">
         <img class="header__logo" src="dist/your-vote-matters.png" alt="Your vote matters!" />
@@ -82,7 +82,7 @@
     <div class="vote">
       <h3 class="vote__heading">Vote November 5</h2>
       <p>Voter registration deadline is October 7</p>
-      <p>You can vote absentee; ballots are availble at your Circuit Clerk's office from October 6 until the morning of Nov. 2</p>
+      <p>You can vote absentee; ballots are available at your Circuit Clerk's office from October 6 until the morning of Nov. 2</p>
     </div>
 
     <section class="section plan">
