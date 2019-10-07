@@ -20,7 +20,8 @@
   links.forEach(function (link) {
     link.addEventListener('click', function (e) {
       gtag('event', 'Link Click', {
-        value: link.href
+        value: link.href,
+        label: link.href
       });
       console.log(link.href);
     });
