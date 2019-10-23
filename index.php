@@ -120,6 +120,6 @@
     </footer>
 
     <!-- <script src="https://kit.fontawesome.com/ce59932e45.js"></script> -->
-    <script src="dist/bundle.js"></script>
+    <!-- <script src="dist/bundle.js"></script> -->
   </body>
 </html>
