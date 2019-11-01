@@ -1,0 +1,10 @@
+.partner-graphic-container {
+  padding: 1rem 0;
+  .partner-graphic {
+    margin-left: auto;
+    margin-right: auto;
+    @include responsive {
+      padding: 3rem 0;
+    }
+  }
+}

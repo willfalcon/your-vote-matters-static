@@ -115,6 +115,10 @@
       </div>
     </section>
 
+    <div class="partner-graphic-container">
+      <img class="partner-graphic" src="dist/partners.jpg" style="margin-left: auto; margin-right: auto;" alt="List of Partner sponsors: ACLU of Mississippi, AFL-CIO, APRI, Children's Defense Fund, Hope Policy Insitute, MacArthur Justice Center, Mississippi Association of Educators, Mississippi Black Women's Roundtable, Mississippi Center for Justice, Mississippi NAACP, Mississippi Votes, Planned Parenthood Southeast, One Voice Mississippi, Southern Poverty Law Center, Southern Rural Black Women's Initiative" />
+    </div>
+
     <footer class="footer">
       <img class="footer__logo" src="dist/your-vote-matters.png" alt="Your vote matters!" />
     </footer>
