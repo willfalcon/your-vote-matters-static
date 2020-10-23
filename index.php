@@ -10,9 +10,9 @@
     <!-- End Google Tag Manager -->
 
 
-    <title>Your Vote Matters! | Vote for Change on November 5th</title>
+    <title>Your Vote Matters! | Vote for Change on November 3rd</title>
 
-    <meta name="description" content="On November 5th you will have the opportunity to elect a new Governor, Lt. Governor and Legislature. You can be the vote that decides our state's path by getting out and voting for Mississippi's next leaders." />
+    <meta name="description" content="On November 3rd, in addition to voting for our preferred candidates, we have a chance to vote on statewide ballot measures that will affect Mississippians for years to come. Make sure to go to the end of the ballot and make your voice heard." />
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -45,67 +45,54 @@
           <img class="header__side-img" src="dist/elliott-stallion-1UY8UuUkids-unsplash.jpg" alt="Exterior door with a sign labeled 'Polling Station.'" />
         </div>
         <h3 class="header__side-heading">
-          Vote for change on November 5<span>th</span>
+          Jim Crow is on the Ballot on November 3<span>rd</span>
         </h3>
       </div>
     </header>
 
     <div class="content">
       <p>Mississippi heroes like Fannie Lou Hamer and Medgar Evers fought, bled and died because they knew YOUR VOTE MATTERS! Today, your vote matters more than ever.</p>
-      <p>On November 5th you will have the opportunity to elect a new Governor, Lt. Governor and Legislature. <strong>You can be the vote</strong> that decides ours state's path by getting out and voting for Mississippi's next leaders.</p>
+      <p>On November 3rd, in addition to voting for our preferred candidates, we have a chance to vote on statewide ballot measures that will affect Mississippians for years to come. 
+      <strong>Make sure to go to the end of the ballot and make your voice heard.</strong></p>
     </div>
 
     <div class="cards">
-      <div class="card">
-        <img class="card__image" src="dist/student.jpg" alt="Students" />
-        <h3 class="card__heading">Your public schools are on the ballot!</h3>
-        <p class="card__text">You can be the vote that ensures your tax dollars go to public schools and not private academies.</p>
-      </div>
-      <div class="card">
-        <img class="card__image" src="dist/healthcare.jpg" alt="Doctor talking to woman on hospital bed and man beside her." />
-        <h3 class="card__heading">Your health care is on the ballot!</h3>
-        <p class="card__text">You can be the vote that expands Medicaid and gives health care to thousands of Mississippians.</p>
-      </div>
-      <div class="card">
-        <img class="card__image" src="dist/road.jpg" alt="Stop sign" />
-        <h3 class="card__heading">Your roads and bridges are on the ballot!</h3>
-        <p class="card__text">You can be the vote that finally puts money towards fixing our roads and bridges.</p>
-      </div>
-      <div class="card">
-        <img class="card__image" src="dist/children.jpg" alt="Two young children on a bed." />
-        <h3 class="card__heading">Your childcare & snap benefits are on the ballot!</h3>
-        <p class="card__text">You can be the vote that protects childcare vouchers and SNAP benefits for you and your family.</p>
-      </div>
+        <div class="card">
+          <img class="card__image" src="dist/ballot2.jpg" alt="Statewide Ballot Measure 2: House Concurrent Resolution No. 47" />
+          <h3 class="card__heading">Vote <span class="text-red">yes</span> on Ballot Measure 2</h3>
+          <p class="card__text">In 1890, when the current Mississippi Constitution was drafted, legislators created a two-tiered process that has made it nearly impossible for a Black person to win statewide office.</p>
+          <p class="card__text"><b>By voting YES on Ballot Measure 2, we can overturn this racist 1890 election law that has no place in 2020 Mississippi.</b></p>
+        </div>
+        <div class="card">
+          <img class="card__image" src="dist/ballot3.jpg" alt="Statewide Ballot Measure 3: House Bill 1796 - Flag Referendum" />
+          <h3 class="card__heading">Vote <span class="text-red">yes</span> on Ballot Measure 3</h3>
+          <p class="card__text">The former Mississippi flag, adopted in 1894, contained the canton of the Confederate battle flag. From 2003 to 2020, Mississippi ws the only state with a flag that showcased this divisive symbol of the Confederacy. On June 28, 2020, the Legislature passed a bill to take down the old flag and establish a new symbol for Mississippi.</p>
+          <p class="card__text"><b>By voting YES on Ballot Measure 3, we chose a symbol that reflects shared values of dignity and respect for all Mississippians.</b></p>
+        </div>
+      
     </div>
 
     <div class="vote">
-      <h3 class="vote__heading">Vote November 5</h2>
-      <p>Voter registration deadline is October 7</p>
-      <p>You can vote absentee; ballots are available at your Circuit Clerk's office from October 6 until the morning of Nov. 2</p>
+      <h3 class="vote__heading">Vote November 3</h2>
+      <p>Absentee ballots are available at your circuit clerk’s office and in-person absentee voting is available until October 31.</p>
+      <p>This year, you may vote absentee if you have a medical condition that qualifies as a “physical disability” (e.g., serious asthma, diabetes, kidney diseases, and lupus) that puts you at greater risk of severe illness if you contract COVID-19 at your polling place. </p>
+      <p>If you have health problems and worry that you could get very sick if you contracted COVID-19, contact your county circuit clerk and ask about voting absentee. </p>
+      <p>You may also vote absentee if you have a directive from your personal doctor to “quarantine” at your home or are caring for someone who has such a directive.</p>
+      <p>***Mississippi has expanded access to curbside voting for people with symptoms of COVID-19 including coughing, vomiting, headaches, fever, sore throat, congestion, or loss of taste or smell. If you experience these symptoms on Election Day, ask the poll manager to let you vote by curbside voting or open-air voting. Rule 2.8***</p>
     </div>
 
     <section class="section plan">
-      <h2 class="offset-heading">Your support matters</h2>
-      <h3 class="section__heading">Make Your Voting Plan</h3>
-      <a class="button--wider section__button" href="https://msvotes.org/voter-services/political-education/" target="_blank" rel="noopener nofollow">
-        Click here to pledge your vote
+      <h2 class="offset-heading">Pledge to Vote</h2>
+      <h3 class="section__heading">Get Ballot Ready</h3>
+      <a class="button--wider section__button" href="https://www.msvotes.org/voter-resources/pledge-to-vote/" target="_blank" rel="noopener nofollow">
+        Click here to get ballot ready
       </a>
       <div class="section__icon-wrapper">
         <img class="section__icon car" src="dist/car.svg" alt="Car" />
       </div>
     </section>
 
-    <section class="section--reverse bank">
-      <h3 class="section__heading">Help Us Phone Bank</h3>
-      <a class="button section__button" href="http://onevoicems.org/election-protection-2019-general-volunteer-application/" target="_blank" rel="nooper nofollow">
-        Click here to volunteer
-      </a>
-      <div class="section__icon-wrapper">
-        <img class="section__icon phone" src="dist/phone-call.svg" alt="Phone" />
-      </div>
-    </section>
-
-    <section class="section polling">
+    <section class="section--reverse polling">
       <h3 class="section__heading">Check Your Polling Place</h3>
       <a class="button section__button" href="https://www.msegov.com/sos/voter_registration/AmIRegistered" target="_blank" rel="noopener nofollow">
         Click here to check your info

@@ -14,10 +14,14 @@
   padding: 1.5rem;
   margin: 2rem 0;
   box-shadow: $shadow;
+  &__image {
+    border: 1px solid rgba($dark, .5);
+  }
   &__heading {
     font-weight: 900;
     text-transform: uppercase;
   }
-  flex: 0 0 225px;
+  // flex: 0 0 225px;
+  flex: 0 0 500px;
   margin: 2rem;
 }

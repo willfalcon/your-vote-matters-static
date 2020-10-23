@@ -2,3 +2,7 @@ body {
   @include font;
   font-size: 1.6rem;
 }
+
+.text-red {
+  color: $red;
+}
